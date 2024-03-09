@@ -27,9 +27,9 @@ export function ChoiceSelection({
   if (!isTBBT)
     return (
       <div className="max-w-[320px] mobile:max-w-[390px] lg:max-w-xl max-h-[422px] bg-triangle bg-no-repeat bg-[center_70%] lg:bg-center bg-[length:70%] lg:bg-auto flex flex-wrap justify-center gap-x-10 lg:gap-x-20 gap-y-5 lg:gap-y-10 my-auto animate-fade-in">
-        <ChoiceButton choice="rock" handleChoice={handleChoice} />
         <ChoiceButton choice="paper" handleChoice={handleChoice} />
         <ChoiceButton choice="scissors" handleChoice={handleChoice} />
+        <ChoiceButton choice="rock" handleChoice={handleChoice} />
       </div>
     )
 }
