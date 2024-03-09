@@ -7,8 +7,8 @@ export default {
         sans: 'Barlow Semi Condensed, sans-serif',
       },
       backgroundImage: {
-        triangle: "url('./src/assets/bg-triangle.svg')",
-        pentagon: "url('./src/assets/bg-pentagon.svg')",
+        triangle: "url('/src/assets/bg-triangle.svg')",
+        pentagon: "url('/src/assets/bg-pentagon.svg')",
       },
       keyframes: {
         'fade-in': {
