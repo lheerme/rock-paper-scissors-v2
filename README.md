@@ -12,7 +12,7 @@ _All hail Sam Kass!_
 
 [Link do Desafio](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH)
 
-[Live](https://rock-paper-scissors-kappa-pride.vercel.app)
+[Live](https://rock-paper-scissors-v2-ruddy.vercel.app)
 
 ## Funcionalidades
 
